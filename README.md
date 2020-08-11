@@ -5,7 +5,7 @@ Contains my preset file(s) for the rich audio effects library [PulseEffects](htt
 
 Preset Details:
 
-1. `HyperX Cloud II` - This preset has been designed to be used with my headset (HyperX Cloud II). It enriches the basses without adding the rest of the spectrum, and adds a bit of stereo effect to open up the sound.
+1. `HyperX Cloud II` - This preset has been designed to be used with my headset (HyperX Cloud II). It enriches the basses without hiding the rest of the spectrum, and adds a bit of stereo effect to open up the sound.
 
 ## Installation
 
