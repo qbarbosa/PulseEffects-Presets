@@ -1,6 +1,8 @@
 # PulseEffects-Presets
 Personally created presets for PulseEffects. Used for a better music output with HyperX Cloud II headset.
 
+![PulseEffects](./PulseEffects.png)
+
 Contains my preset file(s) for the rich audio effects library [PulseEffects](https://github.com/wwmm/pulseeffects/)
 
 Preset Details:
